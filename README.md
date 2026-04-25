@@ -74,7 +74,7 @@ Development Team // SI-D
 Laboratory Assistants
 
 * Galang Ivandry | 124240042
-* uhammad Ikram Mughni | 124240191
+* Muhammad Ikram Mughni | 124240191
 
 ---
 
